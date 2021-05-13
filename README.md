@@ -9,4 +9,4 @@ play with branches
 
 `git checkout test-branch`
 
-test branxh branch
+this was typed onto the test branch
